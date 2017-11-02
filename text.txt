@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is A0C6-3DE4
-
- Directory of C:\Users\Prateek\Desktop\MyProject1
-
-02/11/2017  13:36    <DIR>          .
-02/11/2017  13:36    <DIR>          ..
-02/11/2017  13:36                 0 text.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  415,239,639,040 bytes free
+Change1
